@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Plant-MultiOmics-Framework Banner" />
+  <img src="assets/banner.png" width="100%" alt="Plant-MultiOmics-Framework Banner" />
 </div>
 
 <div align="center">
